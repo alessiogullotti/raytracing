@@ -34,4 +34,6 @@ There are six modifiable built-in scene to render:
 
 ## Notes
 All parameters are customizable on the main function of Main.cpp file.
+No need of additional libraries to run the program.
+Using visual studio, you can add command line arguments to save the image file just by adding "<image.ppm" in the box for "Command Arguments" under the Debug section of the properties page of the project.
 
