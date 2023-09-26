@@ -32,6 +32,6 @@ There are six modifiable built-in scene to render:
 ![Scene5](https://github.com/alessiogullotti/raytracing/assets/48320604/584a7c8f-f263-44cf-8533-5ffc39062ee0)
 ![Scene6](https://github.com/alessiogullotti/raytracing/assets/48320604/a4a04323-fa9b-439f-827e-077738d79f65)
 
-##Notes
+## Notes
 All parameters are customizable on the main function of Main.cpp file.
 
