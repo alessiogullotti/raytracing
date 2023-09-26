@@ -4,41 +4,38 @@ This project is an implementation of a ray tracer based on the series of books R
 
 ## Project Status
 Still on development. The project contains some features like:
-*Antialiasing
-*Diffuse Materials
-*Metallic Materials
-*Dielectric Materials
-*A positionable Camera
-*Depth of field
-*Motion blur
-*BVH
-*Texture Mapping
-*Perlin Noise
-*Quadrilateral  meshes
-*Lights
+* Antialiasing
+* Diffuse Materials
+* Metallic Materials
+* Dielectric Materials
+* A positionable Camera
+* Depth of field
+* Motion blur
+* BVH
+* Texture Mapping
+* Perlin Noise
+* Quadrilateral  meshes
+* Lights
 
 
 
 
          
 There are six modifiable built-in scene to render:
-*Scene with random sphere
-*Perlin noise example
-*Checker texture example
-*Light example
-*Earth texture mapping
-*Cornell box
+* Scene with random sphere
+* Perlin noise example
+* Checker texture example
+* Light example
+* Earth texture mapping
+* Cornell box
+  
+![Scene11](https://github.com/alessiogullotti/raytracing/assets/48320604/443d9356-4ca7-4c2d-8bfa-96bd7e4061b9)
+![Scene4](https://github.com/alessiogullotti/raytracing/assets/48320604/48a8e8ba-b39b-44c1-8c6d-f1331cff597d)
+![Scene2](https://github.com/alessiogullotti/raytracing/assets/48320604/409153cc-8c79-4ed7-b43c-296fa28c1f91)
 
-
-
-
-
-<img src=https://github.com/alessiogullotti/raytracing/assets/48320604/0c524610-4fbc-4c09-9751-88cba5a64377></img>
-![Scene2](https://github.com/alessiogullotti/raytracing/assets/48320604/35c0f66a-b633-44b1-96fb-f76d0cb1eaff)
-![Scene6](https://github.com/alessiogullotti/raytracing/assets/48320604/8a509a54-34b7-4685-a753-172ee20457e2)
-![Scene5](https://github.com/alessiogullotti/raytracing/assets/48320604/7dec3da6-b0bc-40e0-98d2-886fbcba5951)
-![Scene4](https://github.com/alessiogullotti/raytracing/assets/48320604/32a4aa4d-5d50-4e52-9b17-b95167ad82ce)
-![Scene3](https://github.com/alessiogullotti/raytracing/assets/48320604/9c23a6a7-f962-420a-b36b-54b94936c84d)
+![Scene3](https://github.com/alessiogullotti/raytracing/assets/48320604/4bd5eb1c-c54f-4019-abb7-83b584812942)
+![Scene5](https://github.com/alessiogullotti/raytracing/assets/48320604/584a7c8f-f263-44cf-8533-5ffc39062ee0)
+![Scene6](https://github.com/alessiogullotti/raytracing/assets/48320604/a4a04323-fa9b-439f-827e-077738d79f65)
 
 
 
