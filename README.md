@@ -16,11 +16,7 @@ Still on development. The project contains some features like:
 * Perlin Noise
 * Quadrilateral  meshes
 * Lights
-
-
-
-
-         
+        
 There are six modifiable built-in scene to render:
 * Scene with random sphere
 * Perlin noise example
@@ -30,12 +26,12 @@ There are six modifiable built-in scene to render:
 * Cornell box
   
 ![Scene11](https://github.com/alessiogullotti/raytracing/assets/48320604/443d9356-4ca7-4c2d-8bfa-96bd7e4061b9)
-![Scene4](https://github.com/alessiogullotti/raytracing/assets/48320604/48a8e8ba-b39b-44c1-8c6d-f1331cff597d)
 ![Scene2](https://github.com/alessiogullotti/raytracing/assets/48320604/409153cc-8c79-4ed7-b43c-296fa28c1f91)
-
 ![Scene3](https://github.com/alessiogullotti/raytracing/assets/48320604/4bd5eb1c-c54f-4019-abb7-83b584812942)
+![Scene4](https://github.com/alessiogullotti/raytracing/assets/48320604/48a8e8ba-b39b-44c1-8c6d-f1331cff597d)
 ![Scene5](https://github.com/alessiogullotti/raytracing/assets/48320604/584a7c8f-f263-44cf-8533-5ffc39062ee0)
 ![Scene6](https://github.com/alessiogullotti/raytracing/assets/48320604/a4a04323-fa9b-439f-827e-077738d79f65)
 
-
+##Notes
+All parameters are customizable on the main function of Main.cpp file.
 
