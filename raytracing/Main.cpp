@@ -118,7 +118,7 @@ hittable_list two_perlin_spheres() {
 }
 
 hittable_list earth() {
-    auto earth_texture = make_shared<image_texture>("IMages//earthmap.jpg");
+    auto earth_texture = make_shared<image_texture>("Images//earthmap.jpg");
     auto earth_surface = make_shared<lambertian>(earth_texture);
     auto globe = make_shared<sphere>(point3(0, 0, 0), 2, earth_surface);
 
@@ -164,7 +164,7 @@ int main() {
 
     auto aspect_ratio = 16.0 / 9.0;
     int image_width = 400;
-    int samples_per_pixel = 20;
+    int samples_per_pixel = 100;
     const int max_depth = 8;
 
     // World
@@ -177,7 +177,7 @@ int main() {
     auto aperture = 0.0;
     color background(0, 0, 0);
 
-    switch (0) {
+    switch (5) {
     case 1:
         world = random_scene();
         background = color(0.70, 0.80, 1.00);
@@ -217,7 +217,7 @@ int main() {
     default:
     case 6:
         world = cornell_box();
-        samples_per_pixel = 100;
+        samples_per_pixel = 400;
         background = color(0, 0, 0);
         lookfrom = point3(278, 278, -800);
         lookat = point3(278, 278, 0);
